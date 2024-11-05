@@ -90,5 +90,6 @@ From the sales data
 
 
 #### Data Visualization
------
+----
+![image](https://github.com/user-attachments/assets/76114807-3844-4268-ab34-72f47b8462ed)
 
