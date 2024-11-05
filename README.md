@@ -86,12 +86,14 @@ where OrderDate in ('2024-04-01', '2024-04-30')
 Group by Region
 ```
 ###### Note
-From the sales data on SQL we have different region and product category, so from the queries provided one can insert a different region and product category.
+From the sales data on SQL we have different region and product category, so from the queries provided one can insert a different region and product category to get desie result.
 
 
 #### Data Visualization
 ----
 ![image](https://github.com/user-attachments/assets/76114807-3844-4268-ab34-72f47b8462ed)
+
+![image](https://github.com/user-attachments/assets/526e23e5-25ff-4914-97a7-96c5115868b8)
 
 ![image](https://github.com/user-attachments/assets/059ae544-a09b-48b1-a67e-8b186a557c4b)
 
