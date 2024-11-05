@@ -93,3 +93,6 @@ From the sales data on SQL we have different region and product category, so fro
 ----
 ![image](https://github.com/user-attachments/assets/76114807-3844-4268-ab34-72f47b8462ed)
 
+![image](https://github.com/user-attachments/assets/059ae544-a09b-48b1-a67e-8b186a557c4b)
+
+
