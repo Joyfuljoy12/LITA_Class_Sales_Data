@@ -17,7 +17,7 @@ Data Cleaning and preparation
 
 
 
-### Project Title: Sales Data
+### Project Title: Retail Sales Perfomance Data
 -----
 ### Project Overview 
 ------
