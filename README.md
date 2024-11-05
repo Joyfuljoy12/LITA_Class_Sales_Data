@@ -88,3 +88,7 @@ Group by Region
 ###### Note
 From the sales data 
 
+
+#### Data Visualization
+----
+
