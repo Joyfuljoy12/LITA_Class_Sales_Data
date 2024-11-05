@@ -35,7 +35,7 @@ The primary source of the Data used is LITA Capstone Project- Sales Data.xslx
 
 #### Tools used/Methodology 
 ------
-- Microsoft Excel [Download Here]
+- Microsoft Excel [Download Here](https://www.microscoft.com)
   1. Data cleaning
   2. Analysis
   3. Visualization
@@ -95,4 +95,12 @@ From the sales data on SQL we have different region and product category, so fro
 
 ![image](https://github.com/user-attachments/assets/059ae544-a09b-48b1-a67e-8b186a557c4b)
 
+![image](https://github.com/user-attachments/assets/71bd7860-b94d-47ea-8b9c-94fee8a6e91a)
 
+In Summary, 
+      In the above diagrams, the top sales of product categories was shoes from region (south, east and west) during the year 2023 and 2024 at or almost a particular duration from February (2023), Quarter 1 to August (2023), Quarter 3 and also from February (2024), Quarter 1 to July (2024), Quarter 3. From this period, there is a change in the ecosystem causing the atmosphere to gradually change from harmattan weather to rainy weather. So therefore, individuals/ customers tend to make more purchase of shoes/sandals during this period.
+
+
+
+
+to
